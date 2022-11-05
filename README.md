@@ -14,7 +14,7 @@ In this project we are building a Gesture Controlled Car.
 
 
 ## 🛠 Skills
-C++, HTML, SQL
+C++, HTML, SQL, MongoDB, Microsoft Office, Kdenlive(Video Editing).
 
 
 ![Logo](https://avatars.githubusercontent.com/u/117529765?v=4)
