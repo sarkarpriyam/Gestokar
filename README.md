@@ -108,3 +108,11 @@ Based on the input, the car/machine will behave as follows:
 * On the spot left or right turn to pass through the narrow space
 * We have also added head light, back light and turning lights
 
+## Block Diagram
+__Transmitter section:__
+![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20192352.png?raw=true)
+
+__Recevier section__
+![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20192423.png?raw=true)
+
+
