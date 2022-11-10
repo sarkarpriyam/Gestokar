@@ -112,7 +112,62 @@ Based on the input, the car/machine will behave as follows:
 __Transmitter section:__
 ![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20192352.png?raw=true)
 
-__Recevier section__
+__Receiver section:__
 ![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20192423.png?raw=true)
+
+## Explanation of Transmitter and Receiver section Parts:
+
+### MPU6050 sensor:
+IMU (Inertial Measurement Unit) sensors are one of the most inevitable type of sensors used
+today in all kinds of electronic gadgets. IMU sensors consists of accelerometer, gyroscope,
+magnetometer and altimeter. The MPU 6050 is a six axis (gyro + accelerometer) MEMS motion
+tracking module, which gives six values as output that is three values from the accelerometer and
+three from the gyroscope. The MPU 6050 communicates with the Arduino through the I2C
+protocol.
+### Arduino-Nano:
+It a single core 8-bit microcontroller board belonging to Atmel ATmega-328P family. It is
+equipped with 30 male input/output headers, in a dip-30 configuration, which can be
+programmed using the Arduino integrated development environment (IDE), which is common
+to all Arduino boards and running both online and offline. The board can be powered through
+a type-b micro-USB cable, or through a 9V battery.
+## Specifications:
+* Operating Voltage: 5 Volts
+* Input Voltage: 6 to 20 Volts
+* Digital input/output Pins: 14 (plus 6 can PWM [Pulse width modulation] output pins)
+* Analog Input Pins: 8
+* DC Current per input/output Pin: 40 mA
+* DC Current for 3.3V Pin: 50 mA
+* Flash memory: 32 KB
+* SRAM: 2 KB
+* EEPROM: 1KB
+* Clock Speed: 16 MHz
+  
+### NRF24L01:
+Instead of using separate transmitter and receiver module we are using nRF24L01 which is a
+single chip 2.4GHz trans-receiver module. In this chip encoder, decoder, transmitter and receiver
+are inbuilt. The nRF24L01 is a true single chip GFSK trans-receiver with Digital interface (SPI)
+speed of 0-8 Mbps with a complete OSI Link Layer in hardware and Enhanced Shock-Burst
+technology.
+### Specifications:
+* Auto ACK & retransmit
+* Address and CRC computation
+* On the air data rate 1 or 2Mbps
+* 125 RF channel operation
+* Short switching time enable frequency hopping
+* Fully RF compatible with nRF24XX
+* 5V tolerant signal input pads
+* 20-pin package (QFN20 4x4mm)
+* Uses ultra-low cost +/- 60 ppm crystal
+* Uses low cost chip inductors and 2-layer PCB
+* Power supply range: 1.9 to 3.6 V
+  
+### L293D motor Driver:
+The Motor Driver is a module that allows to control the working speed and direction of two
+motors simultaneously.
+L293D is a 16 Pin Motor Driver IC designed to provide bidirectional drive currents at voltages
+from 5 V to 36 V.
+
+
+
 
 
