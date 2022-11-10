@@ -50,10 +50,10 @@ Based on the input, the car/machine will behave as follows:
 
 ## Block Diagram
 __Transmitter section:__
-![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20192352.png?raw=true)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwMvz4rHK_G5jM4zbUgqOGPBXsxz7ke9aaWM4BUeOLcqknl8KUdtd2rAuv0Wthphjcknk4ZeX7IHexRpqk4mMZV3LKuKoeYk81nLKpsXElrCNzVftN_szpl-sjdlDvz8keJSad0IcTR0D8jMLv7y8_bEKj6cRI4UcJHqjokrHmRmE0yIPq-Ayx_NBr/s1600/Screenshot%202022-11-10%20192352.png)
 
 __Receiver section:__
-![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20192423.png?raw=true)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTk4eBfUPc3kVTrjwTjc53itA0QTZhaz2hcpY9SJ_y3J3NPxvCFTAuWWsqt82IrFog3dxlNJx731ezko8ko8SLyjqUbEdPk5_XvUSBtu0UexaOk3LfIo-11mang7bcXI6WYRDe23BAkrxgoSt4KWKEfCmkHu_-oFvAfn9uMxw4kO2CwGtRG4uo-58i/s1600/Screenshot%202022-11-10%20192423.png)
 
 ## Explanation of Transmitter and Receiver section Parts:
 
@@ -110,11 +110,11 @@ from 5 V to 36 V.
 ## Circuit Diagram:
 __Transmitter:__
 
-![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/Screenshot%202022-11-10%20194402.png?raw=true)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYaFyd5PSNNT0A7agUwZ87nm9B3Iqqbx3I9qwwrjf_976qc4zVa3fF6UtKUwqdwwkZ_GUMI-7J_-caksS3m8abV-2u9qJuQjd0YVrjXExObDu0BACu2XTeUvvHyxIUuORqZV4PNZZ5u6Mds9kMMR8ZxG9lCj1kV4dGfXamhpAz_B0qeaHNxfk0NEMM/s1600/Screenshot%202022-11-10%20194402.png)
 
 __Receiver:__
 
-![image](https://github.com/sarkarpriyam/Gestokar/blob/master/images/photo_6282966911696351356_y%20(1).jpg?raw=true)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEM-TiKLOtoIgvQ0pge-u5Z7TmFUXpBP51i1dmeZqpPIbWezyqnRBTI2Wwniclu35j0RjC9qtvO1K8MxLXVLH4GdTN-S8CKCG0QSwtUHh4OMXRJtQoIq7iJ0LjPfz8iRbetCiV1-SqaXu0PRyC7yvyGD-CoHhVIszU00vKcXA243NyBx_KXYmNklUl/s1600/photo_6282966911696351356_y%20%281%29.jpg)
 
 ## Applications:
 * The gesture recognition system can be extended by placing a wireless camera at the
