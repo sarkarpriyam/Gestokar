@@ -48,7 +48,7 @@ Based on the input, the car/machine will behave as follows:
 * On the spot left or right turn to pass through the narrow space
 * We have also added head light, back light and turning lights
 
-## Block Diagram
+## Block Diagram:
 __Transmitter section:__
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwMvz4rHK_G5jM4zbUgqOGPBXsxz7ke9aaWM4BUeOLcqknl8KUdtd2rAuv0Wthphjcknk4ZeX7IHexRpqk4mMZV3LKuKoeYk81nLKpsXElrCNzVftN_szpl-sjdlDvz8keJSad0IcTR0D8jMLv7y8_bEKj6cRI4UcJHqjokrHmRmE0yIPq-Ayx_NBr/s1600/Screenshot%202022-11-10%20192352.png)
 
