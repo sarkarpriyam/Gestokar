@@ -1,18 +1,5 @@
-
-# Authors
-
-- [@sarkarpriyam](https://www.github.com/sarkarpriyam)
-
-
-## 🚀 About Me
-I am a student with an urge to learn. I have always been passionate about learning and that's why I am in Soundarya Composite PU College.
-My interests include technology, music, painting and literature. I am also an avid traveler who loves to explore new places and cultures.
-
-## 🛠 My Skills
-C++, HTML, SQL, MongoDB, Microsoft Office, Arduino, Kdenlive(Video Editing).
-
-# Gestokar
-In this project we are building a Gesture Controlled Car.
+# Gesture controlled Wheelchair 
+In this project we are building a Gesture Controlled Wheelchair.
 
 ## Abstract:
 The proposed work presents a Hand Gesture Controlled car which can be controlled by simple
@@ -143,12 +130,6 @@ to the un-naturalness of the interaction.
 simplicity of gesture controls.
 * The machine can be remotely controlled from a distance when high transceiver modules
 are implemented.
-
-## Drawbacks:
-* Working range decreases as battery voltage decreases.
-* This technology is most suitable in a controlled lab setting.
-* The machine can’t recognize the start and end points of hand gestures from continuous
-motion of hands.
 
 ## Conclusion:
 The purpose of this research was to identify effective strategies to implement the alternative way
